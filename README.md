@@ -17,5 +17,5 @@ The dataset used comes from the Yelp Academic Dataset, which contains detailed b
 
 **Business Dataset:** Contains data on various businesses with the columns business_id, name, address, city, state, postal_code, latitude, longitude, stars, review_count, is_open, attributes, categories, and hours. This dataset has 150,346 rows and 14 columns.
 
-**Review Dataset:** Contains data on the reviews for each business with the columns review_id, user_id, business_id, stars, date, text, useful, funny, and cool. This dataset has 6,990,280 rows and 9 columns. 
+**Reviews Dataset:** Contains data on the reviews for each business with the columns review_id, user_id, business_id, stars, date, text, useful, funny, and cool. This dataset has 6,990,280 rows and 9 columns. 
 
