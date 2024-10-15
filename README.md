@@ -13,5 +13,6 @@ Hybrid Filtering: Combines user similarity, sentiment, and location data to gene
 The dataset used comes from the Yelp Academic Dataset, which contains detailed business and review information:
 
 Business Dataset: Contains data on various businesses with the columns business_id, name, address, city, state, postal code, latitude, longitude, stars, review_count, is_open, attributes, categories, and hours.
+
 Review Dataset: Contains data on the reviews for each business with the columns review_id, user_id, business_id, stars, date, text, useful, funny, and cool.
 
